@@ -11,6 +11,7 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: zevanreg-azure-ttt
   AZURE_WEBAPP_NAME: zevanreg-ttt-app
+  
   ###############################################
 
 jobs:
